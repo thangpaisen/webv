@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999289756347",
+    "project_id": "paisen68-be0a9",
+    "storage_bucket": "paisen68-be0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999289756347:android:2bc03f8fc8a497d42ca79e",
+        "android_client_info": {
+          "package_name": "com.paisen68zzzzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-tnfSjZhbl-uagdH0i33HmHflsQESix0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
