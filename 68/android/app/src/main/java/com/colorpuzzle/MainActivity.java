@@ -1,4 +1,4 @@
-package com.paisen68zzzzz;
+package com.paisen68zzzzzlen;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

@@ -1,4 +1,4 @@
-package com.paisen68zzzzz;
+package com.paisen68zzzzzlen;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
