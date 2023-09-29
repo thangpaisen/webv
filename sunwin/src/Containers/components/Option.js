@@ -26,7 +26,7 @@ export default Option
 
 const styles = StyleSheet.create({
   Option: {
-    borderColor: '#8330ff',
+    borderColor: '#263301',
     borderWidth: 3,
     margin: 40,
     marginBottom: 0,

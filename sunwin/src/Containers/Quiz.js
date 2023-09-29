@@ -31,7 +31,7 @@ export default function quizScreen({ route, navigation }) {
 }
 const styles = StyleSheet.create({
   questionNo: {
-    color: '#8330ff',
+    color: '#ff9b30',
     fontSize: 25,
     margin: 20,
   },
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
   nextButton: {
     height: 50,
     width: '20%',
-    backgroundColor: '#3700B3',
+    backgroundColor: '#b32d00',
     justifyContent: 'center',
     alignItems: 'center',
     alignSelf: 'flex-end',
