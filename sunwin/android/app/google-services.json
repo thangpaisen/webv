@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977967355373",
+    "project_id": "betvisa-d271a",
+    "storage_bucket": "betvisa-d271a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977967355373:android:0a0e29e94fa439a653c3e4",
+        "android_client_info": {
+          "package_name": "com.sunwinzzzzzlen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977967355373-8bhjilt69gpmsloqlduu9fg0bmm650dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0-U3Jhutcb5xbUD0vA7DAKrHKdQbPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977967355373-8bhjilt69gpmsloqlduu9fg0bmm650dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
