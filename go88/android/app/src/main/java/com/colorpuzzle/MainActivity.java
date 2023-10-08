@@ -1,4 +1,4 @@
-package com.go88zzzzzlen;
+package com.go88zzzzzlendi;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

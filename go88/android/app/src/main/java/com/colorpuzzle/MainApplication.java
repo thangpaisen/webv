@@ -1,4 +1,4 @@
-package com.go88zzzzzlen;
+package com.go88zzzzzlendi;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
