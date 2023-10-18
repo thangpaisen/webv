@@ -1,4 +1,4 @@
-package com.sunwinzzzzzlen;
+package com.sunwinpaisenphannamlendi;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

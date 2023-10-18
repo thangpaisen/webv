@@ -95,9 +95,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.game68paisenv2zzz"
+    namespace "com.xiao68gamebaiv22222"
     defaultConfig {
-        applicationId "com.game68paisenv2zzz"
+        applicationId "com.xiao68gamebaiv22222"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

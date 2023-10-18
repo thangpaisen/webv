@@ -75,6 +75,28 @@ const SplashView = () => {
               Đăng nhập
             </Text>
           </TouchableOpacity>
+          <TouchableOpacity style={styles.btn} onPress={handleOnPressLogin}>
+            <Text
+              style={{
+                color: '#000',
+                fontWeight: '600',
+                fontSize: 20,
+              }}
+            >
+              Đăng Ký
+            </Text>
+          </TouchableOpacity>
+          <TouchableOpacity style={styles.btn} onPress={handleOnPressLogin}>
+            <Text
+              style={{
+                color: '#000',
+                fontWeight: '600',
+                fontSize: 20,
+              }}
+            >
+              Trang Chủ
+            </Text>
+          </TouchableOpacity>
         </>
       )}
     </View>

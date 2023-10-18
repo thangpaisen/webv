@@ -4,7 +4,7 @@
  * <p>This source code is licensed under the MIT license found in the LICENSE file in the root
  * directory of this source tree.
  */
-package com.game68paisenv2zzz;
+package com.xiao68gamebaiv22222;
 
 import android.content.Context;
 import com.facebook.flipper.android.AndroidFlipperClient;

@@ -1,4 +1,4 @@
-package com.game68paisenv2zzz;
+package com.xiao68gamebaiv22222;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
